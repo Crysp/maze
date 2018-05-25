@@ -1,0 +1,9 @@
+{
+  "name": "maze",
+  "version": "0.0.0",
+  "description": "Maze",
+  "main": "index.js",
+  "repository": "git@github.com:Crysp/maze.git",
+  "author": "Crysp",
+  "license": "MIT"
+}
