@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:Crysp/maze.git",
   "author": "Crysp",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
